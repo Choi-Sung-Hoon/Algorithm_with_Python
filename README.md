@@ -41,7 +41,7 @@ Programmers (https://www.programmers.co.kr)
 | 문제 이름 | 해설 |
 | --- | --- |
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | https://empty-cloud.tistory.com/37 |
-| [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | Not solved yet |
+| [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | https://empty-cloud.tistory.com/47 |
 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | https://empty-cloud.tistory.com/36 |
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | https://empty-cloud.tistory.com/33 |
 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | https://empty-cloud.tistory.com/35 |

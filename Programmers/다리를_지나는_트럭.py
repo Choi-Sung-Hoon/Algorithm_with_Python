@@ -1,34 +1,32 @@
 from collections import deque
 
 
-def solution(bridge_length, weight, truck_weights):
+def solution(bridge_length, weight_limit, truck_weights):
 	answer = 0
-	
+	waiting = deque(truck_weights)
 	passing = deque()
-	truck_weights = deque([[w, bridge_length] for w in truck_weights])
-	total_weight = 0
 	
-	while passing or truck_weights:
+	bridge_weight = 0
+	while waiting or passing:
+		
+		# count time for the trucks on the bridge
+		for i in range(len(passing)):
+			passing[i][1] -= 1
+		
+		# if the first truck on the bridge is about to pass
+		if passing and passing[0][1] == 0:
+			weight, _ = passing.popleft()
+			bridge_weight -= weight
+		
+		# if there's any waiting truck
+		if waiting:
+			# if the bridge is available
+			if len(passing) < bridge_length and bridge_weight + waiting[0] <= weight_limit:
+				weight = waiting.popleft()
+				passing.append([weight, bridge_length])
+				bridge_weight += weight
 		answer += 1
 		
-		# put truck on the bridge
-		if truck_weights and total_weight + truck_weights[0][0] < weight:
-			truck = truck_weights.popleft()
-			total_weight += truck[0]
-			passing.append(truck)
-			continue
-		
-		length = len(passing)
-		for i in range(length):
-			truck = passing.popleft()
-			truck[1] -= 1
-			if truck[1] > 0:
-				passing.append(truck)
-			else:
-				total_weight -= truck[0]
-				
-		print(answer, passing, truck_weights)
-			
 	return answer
 
 
