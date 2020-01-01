@@ -43,7 +43,7 @@ Programmers (https://www.programmers.co.kr)
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | https://empty-cloud.tistory.com/37 |
 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | https://empty-cloud.tistory.com/47 |
 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | https://empty-cloud.tistory.com/36 |
-| [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585) | Solved but not posted yet |
+| [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585) | https://empty-cloud.tistory.com/56 |
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | https://empty-cloud.tistory.com/33 |
 | [위장](https://programmers.co.kr/learn/courses/30/lessons/42578) | https://empty-cloud.tistory.com/35 |
 | [전화번호 목록](https://programmers.co.kr/learn/courses/30/lessons/42577) | https://empty-cloud.tistory.com/34 |
