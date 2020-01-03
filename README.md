@@ -42,6 +42,7 @@ Programmers (https://www.programmers.co.kr)
 | --- | --- |
 | [기능개발](https://programmers.co.kr/learn/courses/30/lessons/42586) | https://empty-cloud.tistory.com/37 |
 | [다리를 지나는 트럭](https://programmers.co.kr/learn/courses/30/lessons/42583) | https://empty-cloud.tistory.com/47 |
+| [더 맵게](https://programmers.co.kr/learn/courses/30/lessons/42626) | Solved but not posted yet |
 | [베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579) | https://empty-cloud.tistory.com/36 |
 | [쇠막대기](https://programmers.co.kr/learn/courses/30/lessons/42585) | https://empty-cloud.tistory.com/56 |
 | [완주하지 못한 선수](https://programmers.co.kr/learn/courses/30/lessons/42576) | https://empty-cloud.tistory.com/33 |
