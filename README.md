@@ -32,7 +32,7 @@ BOJ (https://www.acmicpc.net)
 | [17144](https://www.acmicpc.net/problem/17144) | 미세먼지 안녕! | https://empty-cloud.tistory.com/41 |
 | [17779](https://www.acmicpc.net/problem/17779) | 게리맨더링 2 | https://empty-cloud.tistory.com/45 |
 | [17822](https://www.acmicpc.net/problem/17822) | 원판 돌리기 | https://empty-cloud.tistory.com/63 |
-| [17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 | Not solved yet |
+| [17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 | Solved but not posted yet |
 | [17837](https://www.acmicpc.net/problem/17837) | 새로운 게임 2 | https://empty-cloud.tistory.com/62 |
 | [3190](https://www.acmicpc.net/problem/3190) | 뱀 | https://empty-cloud.tistory.com/11 |
 | [5373](https://www.acmicpc.net/problem/5373) | 큐빙 | Not solved yet |
