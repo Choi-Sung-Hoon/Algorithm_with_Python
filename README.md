@@ -35,7 +35,7 @@ BOJ (https://www.acmicpc.net)
 | [17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 | https://empty-cloud.tistory.com/66 |
 | [17837](https://www.acmicpc.net/problem/17837) | 새로운 게임 2 | https://empty-cloud.tistory.com/62 |
 | [3190](https://www.acmicpc.net/problem/3190) | 뱀 | https://empty-cloud.tistory.com/11 |
-| [5373](https://www.acmicpc.net/problem/5373) | 큐빙 | Not solved yet |
+| [5373](https://www.acmicpc.net/problem/5373) | 큐빙 | Solved but not posted yet |
 
 </br>
 
