@@ -35,7 +35,7 @@ BOJ (https://www.acmicpc.net)
 | [17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 | https://empty-cloud.tistory.com/66 |
 | [17837](https://www.acmicpc.net/problem/17837) | 새로운 게임 2 | https://empty-cloud.tistory.com/62 |
 | [3190](https://www.acmicpc.net/problem/3190) | 뱀 | https://empty-cloud.tistory.com/11 |
-| [5373](https://www.acmicpc.net/problem/5373) | 큐빙 | Solved but not posted yet |
+| [5373](https://www.acmicpc.net/problem/5373) | 큐빙 | https://empty-cloud.tistory.com/74 |
 
 </br>
 
@@ -54,5 +54,3 @@ Programmers (https://www.programmers.co.kr)
 | [주식가격](https://programmers.co.kr/learn/courses/30/lessons/42584) | https://empty-cloud.tistory.com/57 |
 | [탑](https://programmers.co.kr/learn/courses/30/lessons/42588) | https://empty-cloud.tistory.com/39 |
 | [프린터](https://programmers.co.kr/learn/courses/30/lessons/42587) | https://empty-cloud.tistory.com/38 |
-
- 
