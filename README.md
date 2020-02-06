@@ -6,6 +6,9 @@ BOJ (https://www.acmicpc.net)
 | 문제 번호 | 문제 이름 | 해설 |
 | --- | --- | --- |
 | [1004](https://www.acmicpc.net/problem/1004) | 어린 왕자 | https://empty-cloud.tistory.com/8 |
+| [3190](https://www.acmicpc.net/problem/3190) | 뱀 | https://empty-cloud.tistory.com/11 |
+| [5373](https://www.acmicpc.net/problem/5373) | 큐빙 | https://empty-cloud.tistory.com/74 |
+| [9613](https://www.acmicpc.net/problem/9613) | GCD 합 | https://empty-cloud.tistory.com/75 |
 | [12100](https://www.acmicpc.net/problem/12100) | 2048 (Easy) | https://empty-cloud.tistory.com/10 |
 | [13458](https://www.acmicpc.net/problem/13458) | 시험 감독 | https://empty-cloud.tistory.com/12 |
 | [13460](https://www.acmicpc.net/problem/13460) | 구슬 탈출 2 | https://empty-cloud.tistory.com/9 |
@@ -34,8 +37,6 @@ BOJ (https://www.acmicpc.net)
 | [17822](https://www.acmicpc.net/problem/17822) | 원판 돌리기 | https://empty-cloud.tistory.com/63 |
 | [17825](https://www.acmicpc.net/problem/17825) | 주사위 윷놀이 | https://empty-cloud.tistory.com/66 |
 | [17837](https://www.acmicpc.net/problem/17837) | 새로운 게임 2 | https://empty-cloud.tistory.com/62 |
-| [3190](https://www.acmicpc.net/problem/3190) | 뱀 | https://empty-cloud.tistory.com/11 |
-| [5373](https://www.acmicpc.net/problem/5373) | 큐빙 | https://empty-cloud.tistory.com/74 |
 
 </br>
 
