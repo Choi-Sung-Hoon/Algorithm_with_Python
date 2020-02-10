@@ -6,6 +6,7 @@ BOJ (https://www.acmicpc.net)
 | 문제 번호 | 문제 이름 | 해설 |
 | --- | --- | --- |
 | [1004](https://www.acmicpc.net/problem/1004) | 어린 왕자 | https://empty-cloud.tistory.com/8 |
+| [1978](https://www.acmicpc.net/problem/1978) | 소수 찾기 | https://empty-cloud.tistory.com/77 |
 | [3190](https://www.acmicpc.net/problem/3190) | 뱀 | https://empty-cloud.tistory.com/11 |
 | [5373](https://www.acmicpc.net/problem/5373) | 큐빙 | https://empty-cloud.tistory.com/74 |
 | [9613](https://www.acmicpc.net/problem/9613) | GCD 합 | https://empty-cloud.tistory.com/75 |
