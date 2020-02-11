@@ -9,6 +9,7 @@ BOJ (https://www.acmicpc.net)
 | [1978](https://www.acmicpc.net/problem/1978) | 소수 찾기 | https://empty-cloud.tistory.com/77 |
 | [3190](https://www.acmicpc.net/problem/3190) | 뱀 | https://empty-cloud.tistory.com/11 |
 | [5373](https://www.acmicpc.net/problem/5373) | 큐빙 | https://empty-cloud.tistory.com/74 |
+| [6588](https://www.acmicpc.net/problem/6588) | 골드바흐의 추측 | https://empty-cloud.tistory.com/78 |
 | [9613](https://www.acmicpc.net/problem/9613) | GCD 합 | https://empty-cloud.tistory.com/75 |
 | [12100](https://www.acmicpc.net/problem/12100) | 2048 (Easy) | https://empty-cloud.tistory.com/10 |
 | [13458](https://www.acmicpc.net/problem/13458) | 시험 감독 | https://empty-cloud.tistory.com/12 |
