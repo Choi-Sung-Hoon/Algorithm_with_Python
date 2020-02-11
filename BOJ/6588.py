@@ -24,7 +24,7 @@ while True:
 	found = False
 	
 	# for linear search
-	for a in range(2, 1000001):
+	for a in range(2, n):
 		if prime_list[a]:
 			b = n - a
 			if prime_list[b]:
