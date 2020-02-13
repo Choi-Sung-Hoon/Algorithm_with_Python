@@ -7,7 +7,7 @@ BOJ (https://www.acmicpc.net)
 | --- | --- | --- |
 | [1004](https://www.acmicpc.net/problem/1004) | 어린 왕자 | https://empty-cloud.tistory.com/8 |
 | [1978](https://www.acmicpc.net/problem/1978) | 소수 찾기 | https://empty-cloud.tistory.com/77 |
-| [2309](https://www.acmicpc.net/problem/2309) | 일곱 난쟁이 | Solved but not posted yet |
+| [2309](https://www.acmicpc.net/problem/2309) | 일곱 난쟁이 | https://empty-cloud.tistory.com/79 |
 | [3190](https://www.acmicpc.net/problem/3190) | 뱀 | https://empty-cloud.tistory.com/11 |
 | [5373](https://www.acmicpc.net/problem/5373) | 큐빙 | https://empty-cloud.tistory.com/74 |
 | [6588](https://www.acmicpc.net/problem/6588) | 골드바흐의 추측 | https://empty-cloud.tistory.com/78 |
